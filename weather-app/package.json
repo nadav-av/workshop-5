@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@cicciosgamino/openweather-apis": "^5.2.0",
+    "mondayu-logger": "^1.0.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
